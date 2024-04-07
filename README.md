@@ -52,7 +52,7 @@ The following gas optimizations were implemented in the contracts.
   npx hardhat test --network hardhat
   ```
 
-<img src="https://raw.githubusercontent.com/seeu-inspace/soliditytoken/main/presentation/test.png">
+<img src="[https://github.com/mekijah/solidity-token/blob/main/Test%20presentation.PNG]">
 
 ## Deploy the contracts
 
